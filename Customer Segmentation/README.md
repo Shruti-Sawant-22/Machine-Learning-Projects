@@ -30,12 +30,11 @@
 ### Total return orders = 5172
 ### Total return orders where CustomerID is null= 1518
 
-!["Month wise Revenue"](https://github.com/Shruti-Sawant-22/Machine-Learning/blob/main/Customer%20Segmentation/Month%20wise%20Revenue.png)
+!["Month wise Revenue"](https://github.com/Shruti-Sawant-22/Machine-Learning-Projects/blob/main/Customer%20Segmentation/Month%20wise%20Revenue.png)
 
 ### Sales in the 1st half of the year was not so great
 
-!["Month wise Order"](https://github.com/Shruti-Sawant-22/Machine-Learning/blob/main/Customer%20Segmentation/Month%20wise%20orders.png)
-
+!["Month wise Order"](https://github.com/Shruti-Sawant-22/Machine-Learning-Projects/blob/main/Customer%20Segmentation/Month%20wise%20orders.png)
 ## Highest number of orders are placed in November and th lowest being December (Maybe business was not expecting such a drastic sales and ran out of stock the following month)
 
 ### Do a value counts on country you will see that 90% data is from UK
@@ -67,8 +66,7 @@
 
 ## Model Building (K-Means Clustering model) findling the best value for k using "Elbow-Method"
 
-!["Month wise Order"](https://github.com/Shruti-Sawant-22/Machine-Learning/blob/main/Customer%20Segmentation/Elbow_plot.png)
-
+!["Elbow Plot"](https://github.com/Shruti-Sawant-22/Machine-Learning-Projects/blob/main/Customer%20Segmentation/Elbow_plot.png)
 ## Final Interpretation / Cluster Interpretation
 
 ### Cluster 0 : Represents the best customers who visit the store frequently and are big spenders
